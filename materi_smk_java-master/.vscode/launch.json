@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringMethods",
+            "request": "launch",
+            "mainClass": "StringMethods"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringBufferMethods",
+            "request": "launch",
+            "mainClass": "StringBufferMethods"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Standard",
+            "request": "launch",
+            "mainClass": "Standard"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MapExample",
+            "request": "launch",
+            "mainClass": "MapExample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedListExample",
+            "request": "launch",
+            "mainClass": "LinkedListExample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListExample",
+            "request": "launch",
+            "mainClass": "ListExample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SetExample",
+            "request": "launch",
+            "mainClass": "SetExample"
+        }
+    ]
+}

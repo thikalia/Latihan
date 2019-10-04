@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NewStringBufferPrintUsingReturnMethod",
+            "request": "launch",
+            "mainClass": "NewStringBufferPrintUsingReturnMethod"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NewStringBufferPrintUsingGlobalVariable",
+            "request": "launch",
+            "mainClass": "NewStringBufferPrintUsingGlobalVariable"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NewStringBufferPrintUsingMethod",
+            "request": "launch",
+            "mainClass": "NewStringBufferPrintUsingMethod"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NewStringBufferPrintWithMethod",
+            "request": "launch",
+            "mainClass": "NewStringBufferPrintWithMethod"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NewStringBufferExample",
+            "request": "launch",
+            "mainClass": "NewStringBufferExample"
+        }
+    ]
+}
